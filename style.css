@@ -4,7 +4,9 @@ html, body {
 }
 
 
- 
+.btn-float-top{
+	float: top;
+}
 nav ul {
   /* list-style-type: none;
   background-color: #B577B5
@@ -13,6 +15,7 @@ nav ul {
   font-family: sans-serif;
   font-weight: bold;
   padding: 16px;
+  
 }
 
 nav ul li {
