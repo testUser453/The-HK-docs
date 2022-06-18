@@ -4,7 +4,6 @@ html, body {
 }
 
 
-
 nav ul {
   /* list-style-type: none;
   background-color: #B577B5
@@ -15,6 +14,7 @@ nav ul {
   padding: 16px;
   vertical-align: top;
   margin-top: -55px;
+  
   
 }
 
@@ -31,4 +31,10 @@ nav ul li:last-child {
 
 
   
+}
+
+.HKdis {
+  margin-top: 500px;
+  margin-left: 500px;
+
 }
