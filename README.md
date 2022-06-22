@@ -12,7 +12,7 @@
 
   <p>For starters, lets start by clicking on the "index.html" file in your list of files. Then find the "title" attribute at the top. Next delete the text that says "replit" and then type in what you want your website tab to say for example, we would have put the tab title as "The HK docs" </p>
   <p>The image is listed below for what you should modify. </p>
-  <img src="PicturesForReadme/ChangeTitlePic.png">
+  <img src="Readme/PicturesForReadme/ChangeTitlePic.png">
 
 
 
