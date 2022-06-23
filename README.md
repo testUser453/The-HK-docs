@@ -46,8 +46,13 @@ In order to change the favicon, you will preferrably need a square/circle lookin
 
 <p><a href="https://1drv.ms/v/s!AuOJcqLLBs2NhH2sGKQM0g9akB9S" target="_blank">Click here for a quick video on how to change your favicon!</a></p>
 
+### Website banner
 
+The website banner is the rectangular image on the top left of the webpage. An image is shown below of the Website banner of the HK docs template website.
 
+<img src="Readme/PicturesForReadme/WebsiteBannerLocation.png">
+
+In order to have your Website banner to appear, you need to find these lines of code pictured down below in the index.html files
 
 
 
