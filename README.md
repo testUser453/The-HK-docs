@@ -44,7 +44,7 @@ In order to change the favicon, you will preferrably need a square/circle lookin
 
 
 
-<a href="https://1drv.ms/v/s!AuOJcqLLBs2NhH2sGKQM0g9akB9S">Click here for a quick video on how to change your favicon!</a>
+<a href="https://1drv.ms/v/s!AuOJcqLLBs2NhH2sGKQM0g9akB9S" target="_blank">Click here for a quick video on how to change your favicon!</a>
 
 
 
