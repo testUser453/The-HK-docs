@@ -52,9 +52,22 @@ The website banner is the rectangular image on the top left of the webpage. An i
 
 <img src="Readme/PicturesForReadme/WebsiteBannerLocation.png">
 
-In order to have your Website banner to appear, you need to find these lines of code pictured down below in the index.html files
+
+#### Changing the website banner
 
 
+
+In order to have your Website banner to appear, you need to find these lines of code pictured down below in the index.html file and find the lines of code pictured below.
+
+<img src="Readme/PicturesForReadme/WebsiteBannerCode.png">
+
+Next, go to the "Pictures" folder of this code template and delete the P1.png picture file and upload your preffered website banner. Then rename your file to P1.png.
+
+After that, we have to change the link of the banner image to match the link (domain) of your website/webpage to do that go find this specific line of code pictured below (It is part of the same lines of code pictured above). 
+
+<img src="Readme/PicturesForReadme/WebsiteBannerDomainLinkingCode.png">
+
+Once you find this line, change the link https://stuff.bobk.repl.co to the domain or link of your website. The link can also be local file webpage, for example if someone created a home.html page, they would set the link as "home.html". Then whenever someone clicks the banner, it would take them to the home.html webpage  After that you should be able to be able to click your preffered baner image and it should take you back to your website or webpage.
 
 
 
