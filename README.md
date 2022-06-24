@@ -26,9 +26,9 @@
 <p>Pretty cool huh! Now, lets go ahead and have you change your title.</p>
 
 #### Creating your title:
-  <p>For starters, lets start by clicking on the "index.html" file in your list of files. Then find the "title" attribute at the top. Next delete the text that says "replit" and then type in what you want your website tab to say for example, we would have put the tab title as "The HK docs" </p>
+  <p>For starters, lets start by clicking on the "index.html" file in your list of files. Then find the "title" attribute at the top. Next delete the text that says "The HK docs" and then type in what you want your website tab to say. </p>
   <p>The image is listed below for what you should modify. </p>
-  <img src="Readme/PicturesForReadme/ChangeTitlePic.png">
+  <img src="Readme/PicturesForReadme/UpdatedTitlepic.png">
 
 ### Tab icon (favicon)
 
@@ -65,9 +65,9 @@ Next, go to the "Pictures" folder of this code template and delete the P1.png pi
 
 After that, we have to change the link of the banner image to match the link (domain) of your website/webpage to do that go find this specific line of code pictured below (It is part of the same lines of code pictured above). 
 
-<img src="Readme/PicturesForReadme/WebsiteBannerDomainLinkingCode.png">
+<img src="Readme/PicturesForReadme/WebBannerLinkPicCode.png">
 
-Once you find this line, change the link https://stuff.bobk.repl.co to the domain or link of your website. The link can also be local file webpage, for example if someone created a home.html page, they would set the link as "home.html". Then whenever someone clicks the banner, it would take them to the home.html webpage  After that you should be able to be able to click your preffered baner image and it should take you back to your website or webpage.
+Once you find this line, change the link https://The-HK-Docs.bobk.repl.co to the domain or link of your website. The link can also be local file webpage, for example if someone created a home.html page, they would set the link as "home.html". Then whenever someone clicks the banner, it would take them to the home.html webpage  After that you should be able to be able to click your preffered baner image and it should take you back to your website or webpage.
 
 
 ## Editing further pages
