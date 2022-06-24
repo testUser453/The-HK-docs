@@ -17,7 +17,7 @@ If you are on <a href="https://replit.com" target="_blank">replit</a> and did no
 
 If you are viewing this README in the forked HK docs repl: If you are in this stage, you can just move on to "Editing index.html"
 
-If you are viewing this README on Github: If you are over here, then you can (1.) locally install all the files to your computer in a code workspace and view the README file on Github, (2.) you can click <a href=https://replit.com/@bobk/The-HK-Docs?v=1#README.md> this replit link</a> to view the replit template and fork it, or (3.) you can directly edit this template in Github online and create a Github pages website!
+If you are viewing this README on Github: If you are over here, then you can (1.) locally install all the files to your computer in a code workspace and view the README file on Github, (2.) you can click <a href="https://replit.com/@bobk/The-HK-Docs?v=1#README.md" target="_blank">this replit link</a> to view the replit template and fork it, or (3.) you can directly edit this template in Github online and create a Github pages website!
 ## Editing index.html
 
 ### Tab Title
