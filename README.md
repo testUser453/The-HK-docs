@@ -70,6 +70,9 @@ After that, we have to change the link of the banner image to match the link (do
 Once you find this line, change the link https://stuff.bobk.repl.co to the domain or link of your website. The link can also be local file webpage, for example if someone created a home.html page, they would set the link as "home.html". Then whenever someone clicks the banner, it would take them to the home.html webpage  After that you should be able to be able to click your preffered baner image and it should take you back to your website or webpage.
 
 
+## Editing further pages
+The full tutorial is still being developed and will be added soon.
+
 
 
 </center>
